@@ -8,8 +8,11 @@ Zarzamora
 Limón
 Mandarina
 Naranja
-
+Aguacate
+Carambola
+Chirimoya
 la acelga
+
 el ajo
 la alcachofa = el alcaucil (Argentina)
 el alcaucil (Argentina) = la alcachofa
